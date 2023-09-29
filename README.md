@@ -5,3 +5,4 @@ cloner : git clone
 modification
 valider : git commit-m "la modification est validée"
 envoyer : git push
+historique : git log
