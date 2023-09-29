@@ -1,7 +1,7 @@
 # TPGithub
 git config --global user.name "Kentin MARTINATO"
 git config --global user.email kentin.martinato@etud.univ-jfc.fr
-git clone 
+cloner : git clone 
 modification
-git commit-m "la modification est validée"
-git push
+valider : git commit-m "la modification est validée"
+envoyer : git push
