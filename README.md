@@ -6,5 +6,6 @@ modification
 valider : git commit-m "la modification est validée"
 envoyer : git push
 historique : git log
-Recupérer le projet : ls 
-Puis cd nom de fichier
+recupérer le projet : ls 
+puis cd nom de fichier
+récuperer son projet : modifié : pull
