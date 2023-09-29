@@ -8,7 +8,7 @@ envoyer : git push
 historique : git log
 recupérer le projet : ls 
 puis cd nom de fichier
-récuperer son projet : modifié : pull
+récuperer son projet : modifié : git pull
 
 question 6
 git clone  https://github.com/bastide/tpgit1.git
