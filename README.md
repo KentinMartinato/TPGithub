@@ -9,3 +9,9 @@ historique : git log
 recupérer le projet : ls 
 puis cd nom de fichier
 récuperer son projet : modifié : pull
+
+question 6
+git clone  https://github.com/bastide/tpgit1.git
+ctrl s 
+modifications
+git commit-m "la modification est validée"
